@@ -1,6 +1,6 @@
 ## REST Countries API с переключателем цветовой темы
 
-[demo]([https://natalia-smyslova.github.io/](https://natalia-smyslova.github.io/countries_switcher/))
+[demo](https://natalia-smyslova.github.io/](https://natalia-smyslova.github.io/countries_switcher/)
 
 Учебное задание:
 
