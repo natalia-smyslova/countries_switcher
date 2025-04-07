@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/countries_switcher/static/css/main.e937bdad.css",
+    "main.js": "/countries_switcher/static/js/main.99f91122.js",
+    "index.html": "/countries_switcher/index.html",
+    "main.e937bdad.css.map": "/countries_switcher/static/css/main.e937bdad.css.map",
+    "main.99f91122.js.map": "/countries_switcher/static/js/main.99f91122.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e937bdad.css",
+    "static/js/main.99f91122.js"
+  ]
+}
