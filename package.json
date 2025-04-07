@@ -2,6 +2,7 @@
   "name": "countries-flags",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://natalia-smyslova.github.io/countries_switcher",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
     "axios": "^0.22.0",
@@ -18,7 +19,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -42,6 +45,7 @@
     "@types/react": "^18.0.20",
     "@types/react-dom": "^18.0.6",
     "@types/styled-components": "^5.1.26",
+    "gh-pages": "^6.3.0",
     "typescript": "^4.8.3"
   }
 }
